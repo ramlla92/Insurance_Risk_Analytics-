@@ -1,0 +1,23 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data folders (optional, if you don't want to push large CSVs)
+data/raw/
+data/processed/
