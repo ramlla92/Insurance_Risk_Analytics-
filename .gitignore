@@ -18,6 +18,8 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Data folders (optional, if you don't want to push large CSVs)
-data/raw/
-data/processed/
+
+
+data/raw/*
+
+
