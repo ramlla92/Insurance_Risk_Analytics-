@@ -18,4 +18,8 @@ venv/
 .DS_Store
 Thumbs.db
 
-/MachineLearningRating_v3.txt
+
+
+data/raw/*
+
+
